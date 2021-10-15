@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @areza7095
+- 👋 Hi, I’m Ahmad Reza A
 - 👀 I’m interested in Web Developer and Mobile Developer
 - 🌱 I’m currently learning web and mobile developer
 - 📫 How to reach me go to my website areza7095.github.io/webportfolio
