@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rezzzaaa_a" target="blank"><img src="https://img.shields.io/twitter/follow/rezzzaaa_a?logo=twitter&style=for-the-badge" alt="rezzzaaa_a" /></a> </p>
 
-- 🌱 I’m currently learning **reactnative**
+- 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [reza.anskuy.tech](reza.anskuy.tech)
 
