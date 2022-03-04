@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 👨‍💻 All of my projects are available at [reza.anskuy.tech](reza.anskuy.tech)
+- 👨‍💻 All of my projects are available at [http://areza7095.github.io/](http://areza7095.github.io/)
 
 - 📫 How to reach me **areza7095@gmail.com**
 
