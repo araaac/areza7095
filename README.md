@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cujsubtch" target="blank"><img src="https://img.shields.io/twitter/follow/rezzzaaa_a?logo=twitter&style=for-the-badge" alt="cujsubtch" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react TS and SPFX**
 
 - 👨‍💻 All of my projects are available at [http://areza7095.github.io/](http://areza7095.github.io/)
 
